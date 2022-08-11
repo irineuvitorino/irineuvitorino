@@ -5,5 +5,3 @@
 
 - 🔭 I’m currently working on my PhD and I'm learning Artificial Intelligence and Machine Learning
 - 📫 How to reach me: irineuvitorino@gmail.com
-
-
